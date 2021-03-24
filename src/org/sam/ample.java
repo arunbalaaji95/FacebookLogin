@@ -8,6 +8,7 @@ public class ample {
 		int b=10;
 		System.out.println(a+b);
 		System.out.println("succeed");
+		System.out.println("123");
 	}
 
 }
